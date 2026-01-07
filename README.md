@@ -50,11 +50,9 @@ Video streaming platform built with Spring Boot and MySQL, featuring a web front
 - Physics-based gameplay mechanics
 - Optimized rendering system
 
-## GitHub Stats
+## 📊 Most Used Languages
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dizast3r&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dizast3r&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dizast3r&layout=compact&theme=dark&hide_border=true)
 
 ## 🌱 Currently Learning
 
